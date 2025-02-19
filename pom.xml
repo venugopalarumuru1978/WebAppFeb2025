@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>WebAppFeb2025</finalName>
+    <finalName>TestWebAppJenkins</finalName>
   </build>
 </project>

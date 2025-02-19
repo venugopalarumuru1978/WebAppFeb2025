@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor="green" text="white">
 <h1 style="text-align: center">
 Hello World! This is Home Page
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
