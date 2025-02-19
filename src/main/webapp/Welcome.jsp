@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="green" text="white">
 <h1 style="text-align: center">
-Hello World! This is Home Page
+Hello World! This is Welcome Page
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="Login.jsp">Logout</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
